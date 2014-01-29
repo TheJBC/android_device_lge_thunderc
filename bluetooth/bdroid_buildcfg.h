@@ -17,7 +17,9 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
+#include "../../msm7x27-common/bluetooth/bdroid_buildcfg.h"
+
 #define BTM_DEF_LOCAL_NAME   "LGE-LS670"
-#define BTA_DISABLE_DELAY 1000 /* in milliseconds */
+
 
 #endif
